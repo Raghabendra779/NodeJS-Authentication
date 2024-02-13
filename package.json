@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrinalGupta7890/Node.js-Authentication"
+    "url": "git+https://github.com/Raghabendra779/NodeJS-Authentication"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/MrinalGupta7890/Node.js-Authentication/blob/main/README.md",
+  "homepage": "https://github.com/Raghabendra779/NodeJS-Authentication/blob/master/README.md",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",

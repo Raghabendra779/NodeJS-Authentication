@@ -1,8 +1,16 @@
 # NodeJS Authentication App:-----
 
-> A complete authentication app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more.
+A complete authentication app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more.
 
-## Web App Link: [https://user-auth-systems.onrender.com/]
+> > > Hosted App Link: [https://user-auth-systems.onrender.com/] < < <
+
+## Functionalities:
+
+1. User can signup using the name, email and password.
+2. User can directly signup using email.
+3. User can login their account using email id and password or direct using email and can go to their profile.
+4. User can logout their account.
+5. User can reset their old password to new password.
 
 ## Technologies Used:
 
